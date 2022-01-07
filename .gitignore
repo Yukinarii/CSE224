@@ -1,0 +1,21 @@
+# project1 related
+sort_lm.go
+
+project1/bin/*
+
+*.dat
+
+project1/temp
+
+output
+
+# universal
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+*.test
+
+*.out
